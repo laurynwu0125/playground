@@ -1,6 +1,6 @@
 # Playground
 
-Courses I'm Taking This Semester
+Courses Lauryn is  Taking This Semester
 CS 107
 CS 182
 Sounds of Language
